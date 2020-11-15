@@ -2,7 +2,7 @@
 
 /*
  * Kim Vallido
- * orders.php
+ * admin.php
  * Display guest database.
  */
 
